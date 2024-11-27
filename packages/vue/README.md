@@ -1,5 +1,5 @@
-# Undoable Value Editor (Vue 3)
-This provides utility functions for creating an editor with built in undo/redo functionality.
+# Undoable Editor (Vue 3)
+This library provides Vue 3 components for editting values and undoing said edits.
 
 # Quickstart
 ## Installation
