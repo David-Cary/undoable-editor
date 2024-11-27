@@ -1,6 +1,6 @@
 {
   "name": "@undoable-edits/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Provides utility classes undoable editor implementations",
   "private": false,
   "main": "lib/index.js",

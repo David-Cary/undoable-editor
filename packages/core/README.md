@@ -1,4 +1,4 @@
-# Undoable Value Editor (Vue 3)
+# Undoable Value Editor
 This provides utility functions for creating an editor with built in undo/redo functionality.
 
 # Quickstart
