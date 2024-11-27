@@ -5,7 +5,7 @@ This provides utility functions for creating an editor with built in undo/redo f
 ## Installation
 You can install this library through npm like so:
 ```
-$ npm install --save @undoable-editor/core
+$ npm install --save @undoable-edits/core
 ```
 
 # Implementations

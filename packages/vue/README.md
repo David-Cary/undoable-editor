@@ -5,7 +5,7 @@ This library provides Vue 3 components for editting values and undoing said edit
 ## Installation
 You can install this library through npm like so:
 ```
-$ npm install --save @undoable-editor/vue
+$ npm install --save @undoable-edits/vue
 ```
 
 ## Basic Usage

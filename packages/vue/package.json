@@ -1,9 +1,12 @@
 {
-  "name": "@undoable-editor/vue",
+  "name": "@undoable-edits/vue",
   "version": "1.0.0",
   "description": "Support undoable value changes through schema based vue 3 editors",
   "private": false,
-  "files": ["dist", "src/components/"],
+  "files": [
+    "dist",
+    "src/components/"
+  ],
   "main": "./dist/vue.umd.js",
   "module": "./dist/vue.mjs",
   "types": "./dist/index.d.ts",
@@ -30,7 +33,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/David-Cary/vue"
+    "url": "git+https://github.com/David-Cary/vue.git"
   },
   "peerDependencies": {
     "vue": "^3.4.29"
@@ -58,5 +61,11 @@
     "vite-plugin-dts": "^4.3.0",
     "vue": "^3.4.29",
     "vue-tsc": "^2.0.21"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/David-Cary/vue/issues"
+  },
+  "homepage": "https://github.com/David-Cary/vue#readme",
+  "author": "David Cary",
+  "license": "ISC"
 }
