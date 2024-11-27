@@ -2,6 +2,7 @@
   "name": "@undoable-editor/core",
   "version": "1.0.0",
   "description": "Provides utility classes undoable editor implementations",
+  "private": false,
   "main": "lib/index.js",
   "files": [
     "lib/**/*"
