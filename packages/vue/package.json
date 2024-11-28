@@ -1,6 +1,6 @@
 {
   "name": "@undoable-edits/vue",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Support undoable value changes through schema based vue 3 editors",
   "private": false,
   "files": [
@@ -41,7 +41,7 @@
   "dependencies": {
     "schema-select": "^1.1.3",
     "undoable-edits": "^1.2.3",
-    "@undoable-editor/core": "workspace:^1.0.0"
+    "@undoable-edits/core": "workspace:^1.0.0"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.8.0",

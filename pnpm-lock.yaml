@@ -50,7 +50,7 @@ importers:
 
   packages/vue:
     dependencies:
-      '@undoable-editor/core':
+      '@undoable-edits/core':
         specifier: workspace:^1.0.0
         version: link:../core
       schema-select:
