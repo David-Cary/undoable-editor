@@ -1,6 +1,6 @@
 {
   "name": "@undoable-edits/vue",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Support undoable value changes through schema based vue 3 editors",
   "private": false,
   "files": [
