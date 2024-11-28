@@ -23,7 +23,7 @@ import {
   getPropertySchemas,
   getAdditionalPropertySchemas,
   ValueTransferHandler
-} from '@undoable-editor/core'
+} from '@undoable-edits/core'
 import IconButton from './IconButton.vue'
 import PropertyEditor from './PropertyEditor.vue'
 

@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed, inject } from 'vue'
 import { type FlagOrObject, type UntypedObject, StringEnforcer } from 'schema-select'
-import { type GetKeyedText, echoKeyText } from '@undoable-editor/core'
+import { type GetKeyedText, echoKeyText } from '@undoable-edits/core'
 
 const props = defineProps<{
   modelValue?: any

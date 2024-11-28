@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { type UndoableAction } from 'undoable-edits'
-import { ValueTransferHandler } from '@undoable-editor/core'
+import { ValueTransferHandler } from '@undoable-edits/core'
 import IconButton from './IconButton.vue'
 
 const props = defineProps<{

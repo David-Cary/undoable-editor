@@ -6,7 +6,7 @@ import {
   type GetKeyedText,
   echoKeyText,
   ValueTransferHandler
-} from '@undoable-editor/core'
+} from '@undoable-edits/core'
 import IconButton from './IconButton.vue'
 import ValueEditor from './ValueEditor.vue'
 

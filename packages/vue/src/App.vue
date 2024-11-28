@@ -5,7 +5,7 @@ import {
   KeyedTextTranslator,
   PLACEHOLDER_TEXT,
   LookupViaSchemaProperty
-} from '@undoable-editor/core'
+} from '@undoable-edits/core'
 import UndoableValueEditor from './components/UndoableValueEditor.vue'
 import BooleanEditor from './components/BooleanEditor.vue'
 

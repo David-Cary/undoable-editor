@@ -14,7 +14,7 @@ import {
   type PatternedSchema,
   findPatternedSchemaFor,
   getPropertyNameError
-} from '@undoable-editor/core'
+} from '@undoable-edits/core'
 import ValueEditor from './ValueEditor.vue'
 import AlertButton from './AlertButton.vue'
 import IconButton from './IconButton.vue'

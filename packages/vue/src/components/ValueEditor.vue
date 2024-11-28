@@ -9,7 +9,7 @@ import {
   JSONSchemaOptionsParser
 } from 'schema-select'
 import { type UndoableAction, UndoableSetProperty } from 'undoable-edits'
-import { TypeMappedValueFactory, ValueTransferHandler } from '@undoable-editor/core'
+import { TypeMappedValueFactory, ValueTransferHandler } from '@undoable-edits/core'
 import ArrayEditor from './ArrayEditor.vue'
 import BooleanEditor from './BooleanEditor.vue'
 import NumberEditor from './NumberEditor.vue'

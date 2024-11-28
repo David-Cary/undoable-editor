@@ -13,7 +13,7 @@ import {
   echoKeyText,
   isFlagOrObject,
   ValueTransferHandler
-} from '@undoable-editor/core'
+} from '@undoable-edits/core'
 import IconButton from './IconButton.vue'
 import ArrayItemEditor from './ArrayItemEditor.vue'
 import ArrayInsertionButtons from './ArrayInsertionButtons.vue'
